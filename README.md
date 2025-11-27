@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Solomon Sundah 👋</h1>
-<p align="center"><b>IT Infrastructure • DevOps Engineer • Cloud Support • AI Engineering Enthusiast</b></p>
+<p align="center"><b>IT Infrastructure • DevOps Engineer • Cloud Support • Infrastructure Enthusiast</b></p>
 
 ---
 
 ## 🚀 About Me
-I’m an IT Infrastructure & Support professional transitioning into **DevOps, Cloud Engineering, and AI development**.  
+I’m an IT Infrastructure & Support professional transitioning into **DevOps, Cloud Engineering, and AI Infrastructure development**.  
 I love building **real-world systems**, automating infrastructure, and designing workflows that scale — from PHP/MySQL applications to containerized microservices and Kubernetes deployments.
 
 I use GitHub as my engineering playground for:
@@ -31,7 +31,7 @@ GCP (learning)
 PHP Native • Python • Node.js • Bash • SQL • REST APIs
 
 ### **Databases**
-MySQL • MariaDB • Redis (Pub/Sub for real-time features)
+MySQL • Microsoft SQL Server • MariaDB • Redis (Pub/Sub for real-time features)
 
 ### **Infrastructure & Ops**
 Ubuntu Server • Linux Mint • VMware ESXi • Fortigate/Cisco • DNS  
@@ -69,7 +69,6 @@ A growing collection of Bash scripts for:
 - MySQL backup  
 - NGINX status  
 - Service recovery automation  
-Useful for real-world Cloud Support roles.
 
 ---
 
@@ -83,8 +82,8 @@ Useful for real-world Cloud Support roles.
 ---
 
 ## 📬 Connect With Me
-**LinkedIn:** https://linkedin.com/in/solomonsundah  
-**Email:** *(your email here)*  
+**LinkedIn:** https://linkedin.com/in/solomon-sundah-184b136a/
+**Email:** *ssundah@gmail.com*  
 
 ---
 
