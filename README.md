@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Solomon Sundah 👋</h1>
-<p align="center"><b>IT Infrastructure • DevOps Engineer • Cloud Support • Infrastructure Enthusiast</b></p>
+<p align="center"><b>IT Infrastructure • Hosting Specialist • DevOps Engineer • Cloud Support • Infrastructure Enthusiast</b></p>
 
 ---
 
